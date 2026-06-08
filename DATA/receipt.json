@@ -1,0 +1,18 @@
+[
+    {
+        "receipt_id": "REC1",
+        "vehicle_no": "MH12NT7343",
+        "owner_name": "Ram",
+        "vehicle_type": "BIKE",
+        "amount": 20,
+        "date": "2026-05-21 13:14:46"
+    },
+    {
+        "receipt_id": "REC2",
+        "vehicle_no": "MH12NT7343",
+        "owner_name": "Ram",
+        "vehicle_type": "BIKE",
+        "amount": 20,
+        "date": "2026-05-23 11:20:55"
+    }
+]
